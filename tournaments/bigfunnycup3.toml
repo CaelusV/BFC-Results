@@ -1,0 +1,131 @@
+tournament_name = "Big Funny Cup III: Spooky Edition"
+season_num = 1
+date = 2023-11-05
+has_losers = true
+playoff_teams = 9
+
+###################### WINNERS ######################
+
+#1
+[[brackets.winners]]
+team1 = "Gambit"
+score1 = 1
+team2 = "Big Funky"
+score2 = 2
+
+#2
+[[brackets.winners]]
+team1 = "Bone Zone"
+score1 = 1
+team2 = "Big Funky"
+score2 = 2
+
+#3
+[[brackets.winners]]
+team1 = "Alpha Space Bros"
+score1 = 3
+team2 = "Cartoons FC"
+score2 = 2
+
+#4
+[[brackets.winners]]
+team1 = "Disney"
+score1 = 0
+team2 = "The Dump"
+score2 = 1
+
+#5
+[[brackets.winners]]
+team1 = "Nintendont"
+score1 = 2
+team2 = "Moai"
+score2 = 3
+
+#7
+[[brackets.winners]]
+team1 = "Big Funky"
+score1 = 0
+team2 = "Alpha Space Bros"
+score2 = 1
+
+#8
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 0
+pen1 = 4
+team2 = "Moai"
+score2 = 0
+pen2 = 3
+
+#13
+[[brackets.winners]]
+team1 = "Alpha Space Bros"
+score1 = 3
+team2 = "The Dump"
+score2 = 4
+
+#################### GRAND FINAL ####################
+
+#16
+[[grand_final]]
+team1 = "The Dump"
+score1 = 2
+team2 = "Big Funky"
+score2 = 1
+
+###################### LOSERS #######################
+
+#6
+[[brackets.losers]]
+team1 = "Nintendont"
+score1 = 3
+team2 = "Gambit"
+score2 = 2
+
+#9
+[[brackets.losers]]
+team1 = "Disney"
+score1 = 1
+pen1 = 4
+team2 = "Nintendont"
+score2 = 1
+pen2 = 3
+
+#10
+[[brackets.losers]]
+team1 = "Cartoons FC"
+score1 = 3
+team2 = "Bone Zone"
+score2 = 2
+
+#11
+[[brackets.losers]]
+team1 = "Big Funky"
+score1 = 1
+team2 = "Disney"
+score2 = 0
+
+#12
+[[brackets.losers]]
+team1 = "Moai"
+score1 = 3
+team2 = "Cartoons FC"
+score2 = 4
+
+#14
+[[brackets.losers]]
+team1 = "Big Funky"
+score1 = 3
+pen1 = 3
+team2 = "Cartoons FC"
+score2 = 3
+pen2 = 1
+
+#15
+[[brackets.losers]]
+team1 = "Alpha Space Bros"
+score1 = 2
+pen1 = 2
+team2 = "Big Funky"
+score2 = 2
+pen2 = 3

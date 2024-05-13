@@ -1,0 +1,120 @@
+tournament_name = "Big Funny Cup II: Benis Edition"
+season_num = 1
+date = 2023-09-03
+has_losers = true
+playoff_teams = 8
+
+###################### WINNERS ######################
+
+#1
+[[brackets.winners]]
+team1 = "Nintendont"
+score1 = 3
+team2 = "Moai"
+score2 = 2
+
+#2
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 1
+team2 = "Disney"
+score2 = 2
+
+#3
+[[brackets.winners]]
+team1 = "Cartoons FC"
+score1 = 4
+team2 = "Big Funky"
+score2 = 1
+
+#4
+[[brackets.winners]]
+team1 = "Bone Zone"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 0
+
+#7
+[[brackets.winners]]
+team1 = "Nintendont"
+score1 = 1
+pen1 = 2
+team2 = "Disney"
+score2 = 1
+pen2 = 3
+
+#8
+[[brackets.winners]]
+team1 = "Cartoons FC"
+score1 = 1
+team2 = "Bone Zone"
+score2 = 2
+
+#11
+[[brackets.winners]]
+team1 = "Disney"
+score1 = 4
+team2 = "Bone Zone"
+score2 = 2
+
+#################### GRAND FINAL ####################
+
+#14
+[[grand_final]]
+team1 = "Disney"
+score1 = 1
+team2 = "Bone Zone"
+score2 = 2
+
+#15
+[[grand_final]]
+team1 = "Disney"
+score1 = 0
+team2 = "Bone Zone"
+score2 = 1
+
+###################### LOSERS #######################
+
+#5
+[[brackets.losers]]
+team1 = "Moai"
+score1 = 2
+team2 = "The Dump"
+score2 = 1
+
+#6
+[[brackets.losers]]
+team1 = "Big Funky"
+score1 = 2
+pen1 = 5
+team2 = "Alpha Space Bros"
+score2 = 2
+pen2 = 6
+
+#9
+[[brackets.losers]]
+team1 = "Cartoons FC"
+score1 = 2
+team2 = "Moai"
+score2 = 1
+
+#10
+[[brackets.losers]]
+team1 = "Nintendont"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 3
+
+#12
+[[brackets.losers]]
+team1 = "Cartoons FC"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 3
+
+#13
+[[brackets.losers]]
+team1 = "Bone Zone"
+score1 = 2
+team2 = "Alpha Space Bros"
+score2 = 0

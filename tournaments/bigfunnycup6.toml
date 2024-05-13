@@ -1,0 +1,307 @@
+tournament_name = "Big Funny Cup VI: Late Night Edition"
+season_num = 2
+date = 2024-05-04
+has_losers = false
+playoff_teams = 8
+
+####################### GROUP A #######################
+
+#1
+[[brackets.groups]]
+group_id = "A"
+team1 = "Disney"
+score1 = 1
+team2 = "Autoism"
+score2 = 0
+
+#2
+[[brackets.groups]]
+group_id = "A"
+team1 = "Alpha Space Bros"
+score1 = 1
+team2 = "The Chairs"
+score2 = 2
+
+#3
+[[brackets.groups]]
+group_id = "A"
+team1 = "Disney"
+score1 = 2
+team2 = "Moai"
+score2 = 0
+
+#4
+[[brackets.groups]]
+group_id = "A"
+team1 = "Autoism"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 2
+
+#5
+[[brackets.groups]]
+group_id = "A"
+team1 = "Disney"
+score1 = 0
+team2 = "Alpha Space Bros"
+score2 = 2
+
+#6
+[[brackets.groups]]
+group_id = "A"
+team1 = "Moai"
+score1 = 0
+team2 = "The Chairs"
+score2 = 2
+
+#7
+[[brackets.groups]]
+group_id = "A"
+team1 = "Disney"
+score1 = 0
+team2 = "The Chairs"
+score2 = 2
+
+#8
+[[brackets.groups]]
+group_id = "A"
+team1 = "Autoism"
+score1 = 1
+team2 = "Moai"
+score2 = 0
+
+#9
+[[brackets.groups]]
+group_id = "A"
+team1 = "Autoism"
+score1 = 1
+team2 = "The Chairs"
+score2 = 1
+
+#10
+[[brackets.groups]]
+group_id = "A"
+team1 = "Moai"
+score1 = 2
+team2 = "Alpha Space Bros"
+score2 = 2
+
+
+####################### GROUP B #######################
+
+#1
+[[brackets.groups]]
+group_id = "B"
+team1 = "Cartoons FC"
+score1 = 2
+team2 = "Big Funky"
+score2 = 1
+
+#2
+[[brackets.groups]]
+group_id = "B"
+team1 = "Bone Zone"
+score1 = 1
+team2 = "Cursed"
+score2 = 0
+
+#3
+[[brackets.groups]]
+group_id = "B"
+team1 = "Cartoons FC"
+score1 = 0
+team2 = "Nintendont"
+score2 = 3
+
+#4
+[[brackets.groups]]
+group_id = "B"
+team1 = "Big Funky"
+score1 = 2
+team2 = "Bone Zone"
+score2 = 0
+
+#5
+[[brackets.groups]]
+group_id = "B"
+team1 = "Cartoons FC"
+score1 = 1
+team2 = "Bone Zone"
+score2 = 2
+
+#6
+[[brackets.groups]]
+group_id = "B"
+team1 = "Nintendont"
+score1 = 4
+team2 = "Cursed"
+score2 = 2
+
+#7
+[[brackets.groups]]
+group_id = "B"
+team1 = "Cartoons FC"
+score1 = 3
+team2 = "Cursed"
+score2 = 2
+
+#8
+[[brackets.groups]]
+group_id = "B"
+team1 = "Big Funky"
+score1 = 0
+team2 = "Nintendont"
+score2 = 0
+
+#9
+[[brackets.groups]]
+group_id = "B"
+team1 = "Big Funky"
+score1 = 1
+team2 = "Cursed"
+score2 = 3
+
+#10
+[[brackets.groups]]
+group_id = "B"
+team1 = "Nintendont"
+score1 = 1
+team2 = "Bone Zone"
+score2 = 1
+
+
+####################### GROUP C #######################
+
+#1
+[[brackets.groups]]
+group_id = "C"
+team1 = "Gambit"
+score1 = 1
+team2 = "HmX Gaming"
+score2 = 1
+
+#2
+[[brackets.groups]]
+group_id = "C"
+team1 = "The Dump"
+score1 = 2
+team2 = "Fink Ployd"
+score2 = 3
+
+#3
+[[brackets.groups]]
+group_id = "C"
+team1 = "Gambit"
+score1 = 0
+team2 = "Vidya"
+score2 = 1
+
+#4
+[[brackets.groups]]
+group_id = "C"
+team1 = "HmX Gaming"
+score1 = 2
+team2 = "The Dump"
+score2 = 3
+
+#5
+[[brackets.groups]]
+group_id = "C"
+team1 = "Gambit"
+score1 = 4
+team2 = "The Dump"
+score2 = 2
+
+#6
+[[brackets.groups]]
+group_id = "C"
+team1 = "Vidya"
+score1 = 0
+team2 = "Fink Ployd"
+score2 = 2
+
+#7
+[[brackets.groups]]
+group_id = "C"
+team1 = "Gambit"
+score1 = 2
+team2 = "Fink Ployd"
+score2 = 0
+
+#8
+[[brackets.groups]]
+group_id = "C"
+team1 = "HmX Gaming"
+score1 = 1
+team2 = "Vidya"
+score2 = 1
+
+#9
+[[brackets.groups]]
+group_id = "C"
+team1 = "HmX Gaming"
+score1 = 0
+team2 = "Fink Ployd"
+score2 = 1
+
+#10
+[[brackets.groups]]
+group_id = "C"
+team1 = "Vidya"
+score1 = 1
+team2 = "The Dump"
+score2 = 4
+
+
+###################### WINNERS ######################
+
+#1
+[[brackets.winners]]
+team1 = "The Chairs"
+score1 = 2
+pen1 = 3
+team2 = "Disney"
+score2 = 2
+pen2 = 1
+
+#2
+[[brackets.winners]]
+team1 = "Bone Zone"
+score1 = 1
+team2 = "Gambit"
+score2 = 2
+
+#3
+[[brackets.winners]]
+team1 = "Fink Ployd"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 2
+
+#4
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 1
+team2 = "Nintendont"
+score2 = 0
+
+#5
+[[brackets.winners]]
+team1 = "The Chairs"
+score1 = 3
+team2 = "Gambit"
+score2 = 0
+
+#6
+[[brackets.winners]]
+team1 = "Alpha Space Bros"
+score1 = 2
+team2 = "The Dump"
+score2 = 1
+
+#7 – FINAL
+[[brackets.winners]]
+team1 = "The Chairs"
+score1 = 1
+team2 = "Alpha Space Bros"
+score2 = 3
