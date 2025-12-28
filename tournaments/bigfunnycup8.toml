@@ -4,6 +4,16 @@ date = 2025-11-29
 has_losers = false
 playoff_teams = 8
 
+##################### HEAD TO HEAD ####################
+
+[[head_to_head]]
+team = "FC Fine Dining"
+decider_points = 1
+
+[[head_to_head]]
+team = "Alpha Space Bros"
+decider_points = 0
+
 ####################### GROUP A #######################
 
 #1
