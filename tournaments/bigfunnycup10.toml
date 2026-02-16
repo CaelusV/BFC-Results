@@ -1,0 +1,277 @@
+tournament_name = "Big Funny Cup X"
+season_num = 3
+date = 2026-02-08
+has_losers = true
+playoff_teams = 18
+
+##################### HEAD TO HEAD ####################
+
+[[head_to_head]]
+team = "FC Fine Dining"
+decider_points = 3
+
+[[head_to_head]]
+team = "Disney"
+decider_points = 2
+
+###################### WINNERS ######################
+
+#1
+[[brackets.winners]]
+team1 = "FC PC"
+score1 = 1
+team2 = "Moai"
+score2 = 2
+
+#2
+[[brackets.winners]]
+team1 = "Cartoons FC"
+score1 = 1
+team2 = "Legoland"
+score2 = 4
+
+#3
+[[brackets.winners]]
+team1 = "Gambit"
+score1 = 0
+pen1 = 3
+team2 = "Moai"
+score2 = 0
+pen2 = 1
+
+#4
+[[brackets.winners]]
+team1 = "HmX Gaming"
+score1 = 3
+team2 = "The Chairs"
+score2 = 1
+
+#5
+[[brackets.winners]]
+team1 = "Autoism"
+score1 = 0
+team2 = "Big Funky"
+score2 = 4
+
+#6
+[[brackets.winners]]
+team1 = "Fink Ployd"
+score1 = 0
+team2 = "Bone Zone"
+score2 = 1
+
+#7
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 2
+team2 = "Nintendont"
+score2 = 1
+
+#8
+[[brackets.winners]]
+team1 = "Disney"
+score1 = 0
+team2 = "Alpha Space Bros"
+score2 = 3
+
+#9
+[[brackets.winners]]
+team1 = "FC Fine Dining"
+score1 = 0
+team2 = "Cursed"
+score2 = 2
+
+#10
+[[brackets.winners]]
+team1 = "Legoland"
+score1 = 1
+pen1 = 1
+team2 = "Vidya"
+score2 = 1
+pen2 = 3
+
+#13
+[[brackets.winners]]
+team1 = "Gambit"
+score1 = 2
+team2 = "HmX Gaming"
+score2 = 1
+
+#14
+[[brackets.winners]]
+team1 = "Big Funky"
+score1 = 2
+team2 = "Bone Zone"
+score2 = 1
+
+#15
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 6
+team2 = "Alpha Space Bros"
+score2 = 3
+
+#16
+[[brackets.winners]]
+team1 = "Cursed"
+score1 = 1
+team2 = "Vidya"
+score2 = 2
+
+#25
+[[brackets.winners]]
+team1 = "Gambit"
+score1 = 0
+team2 = "Big Funky"
+score2 = 3
+
+#26
+[[brackets.winners]]
+team1 = "The Dump"
+score1 = 2
+team2 = "Vidya"
+score2 = 1
+
+#31
+[[brackets.winners]]
+team1 = "Big Funky"
+score1 = 1
+pen1 = 3
+team2 = "The Dump"
+score2 = 1
+pen2 = 4
+
+#################### GRAND FINAL ####################
+
+#34
+[[grand_final]]
+team1 = "The Dump"
+score1 = 1
+team2 = "HmX Gaming"
+score2 = 2
+
+#35
+[[grand_final]]
+team1 = "The Dump"
+score1 = 3
+team2 = "HmX Gaming"
+score2 = 1
+
+###################### LOSERS #######################
+
+#11
+[[brackets.losers]]
+team1 = "Legoland"
+score1 = 3
+team2 = "FC PC"
+score2 = 0
+
+#12
+[[brackets.losers]]
+team1 = "Moai"
+score1 = 2
+team2 = "Cartoons FC"
+score2 = 4
+
+#17
+[[brackets.losers]]
+team1 = "FC Fine Dining"
+score1 = 1
+team2 = "Legoland"
+score2 = 4
+
+#18
+[[brackets.losers]]
+team1 = "Disney"
+score1 = 1
+team2 = "Nintendont"
+score2 = 3
+
+#19
+[[brackets.losers]]
+team1 = "Autoism"
+score1 = 0
+team2 = "Fink Ployd"
+score2 = 1
+
+#20
+[[brackets.losers]]
+team1 = "The Chairs"
+score1 = 3
+team2 = "Cartoons FC"
+score2 = 5
+
+#21
+[[brackets.losers]]
+team1 = "Bone Zone"
+score1 = 1
+pen1 = 3
+team2 = "Legoland"
+score2 = 1
+pen2 = 4
+
+#22
+[[brackets.losers]]
+team1 = "HmX Gaming"
+score1 = 2
+team2 = "Nintendont"
+score2 = 1
+
+#23
+[[brackets.losers]]
+team1 = "Cursed"
+score1 = 1
+team2 = "Fink Ployd"
+score2 = 0
+
+
+#24
+[[brackets.losers]]
+team1 = "Alpha Space Bros"
+score1 = 0
+team2 = "Cartoons FC"
+score2 = 3
+
+#27
+[[brackets.losers]]
+team1 = "Legoland"
+score1 = 1
+team2 = "HmX Gaming"
+score2 = 3
+
+#28
+[[brackets.losers]]
+team1 = "Cursed"
+score1 = 1
+team2 = "Cartoons FC"
+score2 = 2
+
+#29
+[[brackets.losers]]
+team1 = "Vidya"
+score1 = 0
+team2 = "HmX Gaming"
+score2 = 3
+
+#30
+[[brackets.losers]]
+team1 = "Gambit"
+score1 = 1
+team2 = "Cartoons FC"
+score2 = 2
+
+#32
+[[brackets.losers]]
+team1 = "HmX Gaming"
+score1 = 0
+pen1 = 5
+team2 = "Cartoons FC"
+score2 = 0
+pen2 = 4
+
+#33
+[[brackets.losers]]
+team1 = "Big Funky"
+score1 = 1
+team2 = "HmX Gaming"
+score2 = 3
