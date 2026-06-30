@@ -3,6 +3,7 @@ season_num = 1
 date = 2024-01-06
 has_losers = true
 playoff_teams = 10
+point_system = "TennisV1"
 
 ###################### WINNERS ######################
 

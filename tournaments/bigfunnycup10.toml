@@ -3,6 +3,7 @@ season_num = 3
 date = 2026-02-08
 has_losers = true
 playoff_teams = 18
+point_system = "TennisV1"
 
 ##################### HEAD TO HEAD ####################
 

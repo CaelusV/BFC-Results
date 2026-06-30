@@ -3,6 +3,7 @@ season_num = 2
 date = 2024-07-06
 has_losers = false
 playoff_teams = 8
+point_system = "TennisV1"
 
 ####################### GROUP A #######################
 
