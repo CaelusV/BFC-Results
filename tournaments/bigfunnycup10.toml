@@ -7,139 +7,199 @@ point_system = "TennisV1"
 
 ##################### HEAD TO HEAD ####################
 
-[[head_to_head]]
-team = "FC Fine Dining"
-decider_points = 3
-
-[[head_to_head]]
-team = "Disney"
-decider_points = 2
-
 ###################### WINNERS ######################
 
 #1
 [[brackets.winners]]
 team1 = "FC PC"
 score1 = 1
+scorers1 = ["Amiga 500"]
+assisters1 = []
 team2 = "Moai"
 score2 = 2
+scorers2 = ["No Thoughts", "Imma Head In"]
+assisters2 = ["Imma Head In", "Alright Imma Head Out"]
 
 #2
 [[brackets.winners]]
 team1 = "Cartoons FC"
 score1 = 1
+scorers1 = ["Spongebob"]
+assisters1 = ["Bender"]
 team2 = "Legoland"
 score2 = 4
+scorers2 = ["Lego Auschwitz", "Lego Auschwitz", "Lego Auschwitz", "Lego Auschwitz"]
+assisters2 = ["Onua", "Onua", "HEY!!", "HEY!!"]
 
 #3
 [[brackets.winners]]
 team1 = "Gambit"
 score1 = 0
+scorers1 = []
+assisters1 = []
 pen1 = 3
 team2 = "Moai"
 score2 = 0
+scorers2 = []
+assisters2 = []
 pen2 = 1
 
 #4
 [[brackets.winners]]
 team1 = "HmX Gaming"
 score1 = 3
+scorers1 = ["You Schmuck!", "Kennylulz", "naPalm"]
+assisters1 = ["Kennylulz", "You Schmuck!", "Sweet"]
 team2 = "The Chairs"
 score2 = 1
+scorers2 = ["Plastic Garden Chair"]
+assisters2 = []
 
 #5
 [[brackets.winners]]
 team1 = "Autoism"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Big Funky"
 score2 = 4
+scorers2 = ["Spurdo", "Spurdo", "Spurdo", "Gondola"]
+assisters2 = ["Donald Trump", "Big Money Big Women Big Success", "Bepsi", "Bepsi"]
 
 #6
 [[brackets.winners]]
 team1 = "Fink Ployd"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Own Goal (Fink Ployd)"]
+assisters2 = []
 
 #7
 [[brackets.winners]]
 team1 = "The Dump"
 score1 = 2
+scorers1 = ["Brb Going For A Schwim", "SQWAAA"]
+assisters1 = ["SQWAAA", "Brb Going For A Schwim"]
 team2 = "Nintendont"
 score2 = 1
+scorers2 = ["Mario"]
+assisters2 = ["Dr. Kawashima"]
 
 #8
 [[brackets.winners]]
 team1 = "Disney"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Alpha Space Bros"
 score2 = 3
+scorers2 = ["aeiou", "aeiou", "aeiou"]
+assisters2 = ["John Madden", "John Madden"]
 
 #9
 [[brackets.winners]]
 team1 = "FC Fine Dining"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Cursed"
 score2 = 2
+scorers2 = ["Louie the Lightning Bug", "Louie the Lightning Bug"]
+assisters2 = ["Thing", "Weeping Angel"]
 
 #10
 [[brackets.winners]]
 team1 = "Legoland"
 score1 = 1
+scorers1 = ["Lego Auschwitz"]
+assisters1 = ["Onua"]
 pen1 = 1
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["Sonic"]
+assisters2 = ["THEN THERE'S NO TIME TO WASTE"]
 pen2 = 3
 
 #13
 [[brackets.winners]]
 team1 = "Gambit"
 score1 = 2
+scorers1 = ["Pawn With A Gun", "Anti-Queen"]
+assisters1 = ["A Blunder On Elm Street"]
 team2 = "HmX Gaming"
 score2 = 1
+scorers2 = ["Kennylulz"]
+assisters2 = []
 
 #14
 [[brackets.winners]]
 team1 = "Big Funky"
 score1 = 2
+scorers1 = ["Gondola", "Spurdo"]
+assisters1 = ["Donald Trump"]
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Mr. Bones"]
+assisters2 = ["Skeletor"]
 
 #15
 [[brackets.winners]]
 team1 = "The Dump"
 score1 = 6
+scorers1 = ["It's Over", "SQWAAA", "SQWAAA", "Brb Going For A Schwim", "Dumpster", "Brb Going For A Schwim"]
+assisters1 = ["It's Over", "You're Winner :DDDD", "Bird Seed", "SQWAAA", "Bird Seed"]
 team2 = "Alpha Space Bros"
 score2 = 3
+scorers2 = ["John Madden", "UUUUUUUUUUUUUUUUUU", "aeiou"]
+assisters2 = ["football", "AAAAAAAAAAAAAAAAA", "Rover Stuck :("]
 
 #16
 [[brackets.winners]]
 team1 = "Cursed"
 score1 = 1
+scorers1 = ["Louie the Lightning Bug"]
+assisters1 = []
 team2 = "Vidya"
 score2 = 2
+scorers2 = ["THEN THERE'S NO TIME TO WASTE", "THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Tinfist", "Tinfist"]
 
 #25
 [[brackets.winners]]
 team1 = "Gambit"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Big Funky"
 score2 = 3
+scorers2 = ["Gondola", "Spurdo", "Big Money Big Women Big Success"]
+assisters2 = ["Bepsi", "Bepsi", "Spurdo"]
 
 #26
 [[brackets.winners]]
 team1 = "The Dump"
 score1 = 2
+scorers1 = ["Brb Going For A Schwim", "Brb Going For A Schwim"]
+assisters1 = ["Dead Team :(", "Dead Team :("]
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Crash Bandicoot"]
 
 #31
 [[brackets.winners]]
 team1 = "Big Funky"
 score1 = 1
+scorers1 = ["Bepsi"]
+assisters1 = []
 pen1 = 3
 team2 = "The Dump"
 score2 = 1
+scorers2 = ["Brb Going For A Schwim"]
+assisters2 = ["SQWAAA"]
 pen2 = 4
 
 #################### GRAND FINAL ####################
@@ -148,15 +208,23 @@ pen2 = 4
 [[grand_final]]
 team1 = "The Dump"
 score1 = 1
+scorers1 = ["Brb Going For A Schwim"]
+assisters1 = ["Bird Seed"]
 team2 = "HmX Gaming"
 score2 = 2
+scorers2 = ["naPalm", "Kennylulz"]
+assisters2 = ["Bert54", "YoBro"]
 
 #35
 [[grand_final]]
 team1 = "The Dump"
 score1 = 3
+scorers1 = ["SQWAAA", "SQWAAA", "SQWAAA"]
+assisters1 = ["Kermit", "Dead Team :(", "The Sauce"]
 team2 = "HmX Gaming"
 score2 = 1
+scorers2 = ["naPalm"]
+assisters2 = ["Kennylulz"]
 
 ###################### LOSERS #######################
 
@@ -164,115 +232,179 @@ score2 = 1
 [[brackets.losers]]
 team1 = "Legoland"
 score1 = 3
+scorers1 = ["Onua", "Lego Auschwitz", "Lego Auschwitz"]
+assisters1 = ["Onua", "Kopaka"]
 team2 = "FC PC"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #12
 [[brackets.losers]]
 team1 = "Moai"
 score1 = 2
+scorers1 = ["Imma Head In", "Imma Head In"]
+assisters1 = ["Head Empty", "Funny Noise"]
 team2 = "Cartoons FC"
 score2 = 4
+scorers2 = ["Shrek", "Bender", "Bender", "Bender"]
+assisters2 = ["Shrek", "Aku", "Shrek"]
 
 #17
 [[brackets.losers]]
 team1 = "FC Fine Dining"
 score1 = 1
+scorers1 = ["Pidser"]
+assisters1 = ["Indian Street Food"]
 team2 = "Legoland"
-score2 = 4
+score2 = 3
+scorers2 = ["Lego Auschwitz", "Never Ever", "Onua"]
+assisters2 = ["Onua", "Kopaka", "HEY!!"]
 
 #18
 [[brackets.losers]]
 team1 = "Disney"
 score1 = 1
+scorers1 = ["Woody"]
+assisters1 = ["Kronk"]
 team2 = "Nintendont"
 score2 = 3
+scorers2 = ["Link", "Ganondorf", "Mario"]
+assisters2 = ["Ganondorf", "Link", "Ridley"]
 
 #19
 [[brackets.losers]]
 team1 = "Autoism"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Fink Ployd"
 score2 = 1
+scorers2 = ["The Dark Side of the Moon"]
+assisters2 = []
 
 #20
 [[brackets.losers]]
 team1 = "The Chairs"
 score1 = 3
+scorers1 = ["Rocking Chair", "Rocking Chair", "Flexible Chair"]
+assisters1 = ["Flexible Chair", "Flexible Chair", "Human Chair"]
 team2 = "Cartoons FC"
 score2 = 5
+scorers2 = ["Shrek", "Shrek", "Bender", "Shrek", "Bender"]
+assisters2 = ["Omni-Man", "Bender", "Spongebob", "Omni-Man", "Shrek"]
 
 #21
 [[brackets.losers]]
 team1 = "Bone Zone"
 score1 = 1
+scorers1 = ["Mr. Bones"]
+assisters1 = []
 pen1 = 3
 team2 = "Legoland"
 score2 = 1
+scorers2 = ["Onua"]
+assisters2 = ["Lego Auschwitz"]
 pen2 = 4
 
 #22
 [[brackets.losers]]
 team1 = "HmX Gaming"
 score1 = 2
+scorers1 = ["You Schmuck!", "Sweet"]
+assisters1 = ["Sweet", "Kennylulz"]
 team2 = "Nintendont"
 score2 = 1
+scorers2 = ["Mario"]
+assisters2 = ["Ganondorf"]
 
 #23
 [[brackets.losers]]
 team1 = "Cursed"
 score1 = 1
+scorers1 = ["Thing"]
+assisters1 = []
 team2 = "Fink Ployd"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 
 #24
 [[brackets.losers]]
 team1 = "Alpha Space Bros"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Cartoons FC"
 score2 = 3
+scorers2 = ["Bender", "Bender", "Spongebob"]
+assisters2 = ["Zuko", "Shrek", "Shrek"]
 
 #27
 [[brackets.losers]]
 team1 = "Legoland"
 score1 = 1
+scorers1 = ["HEY!!"]
+assisters1 = []
 team2 = "HmX Gaming"
 score2 = 3
+scorers2 = ["Kennylulz", "You Schmuck!", "Kennylulz"]
+assisters2 = ["You Schmuck!", "naPalm"]
 
 #28
 [[brackets.losers]]
 team1 = "Cursed"
 score1 = 1
+scorers1 = ["Thomas the Pain Engine"]
+assisters1 = []
 team2 = "Cartoons FC"
 score2 = 2
+scorers2 = ["Bender", "Bender"]
+assisters2 = ["Smiling Friends", "Shrek"]
 
 #29
 [[brackets.losers]]
 team1 = "Vidya"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "HmX Gaming"
 score2 = 3
+scorers2 = ["Kennylulz", "naPalm", "naPalm"]
+assisters2 = ["Kennylulz", "You Schmuck!"]
 
 #30
 [[brackets.losers]]
 team1 = "Gambit"
 score1 = 1
+scorers1 = ["Your Flag Fell, Loser"]
+assisters1 = ["Pawn With A Gun"]
 team2 = "Cartoons FC"
 score2 = 2
+scorers2 = ["Shrek", "Bender"]
+assisters2 = ["Aku", "Shrek"]
 
 #32
 [[brackets.losers]]
 team1 = "HmX Gaming"
 score1 = 0
+scorers1 = []
+assisters1 = []
 pen1 = 5
 team2 = "Cartoons FC"
 score2 = 0
+scorers2 = []
+assisters2 = []
 pen2 = 4
 
 #33
 [[brackets.losers]]
 team1 = "Big Funky"
 score1 = 1
+scorers1 = ["Spurdo"]
+assisters1 = ["Donald Trump"]
 team2 = "HmX Gaming"
 score2 = 3
+scorers2 = ["Sweet", "You Schmuck!", "You Schmuck!"]
+assisters2 = ["You Schmuck!", "Sweet", "Kennylulz"]

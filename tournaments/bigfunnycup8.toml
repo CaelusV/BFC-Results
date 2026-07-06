@@ -22,48 +22,72 @@ decider_points = 0
 group_id = "A"
 team1 = "FC Fine Dining"
 score1 = 1
+scorers1 = ["Pidser"]
+assisters1 = ["Baguette Man"]
 team2 = "Autoism"
 score2 = 1
+scorers2 = ["Group C Kino"]
+assisters2 = ["It's The Future Bro, Accept It"]
 
 #2
 [[brackets.groups]]
 group_id = "A"
 team1 = "Bone Zone"
 score1 = 3
+scorers1 = ["Mr. Bones", "Mr. Bones", "Skeletor"]
+assisters1 = ["Broken Bones", "Skeletor", "Mr. Bones"]
 team2 = "Moai"
 score2 = 1
+scorers2 = ["No Thoughts"]
+assisters2 = ["Imma Head In"]
 
 #3
 [[brackets.groups]]
 group_id = "A"
 team1 = "FC Fine Dining"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Mr. Bones"]
+assisters2 = ["Skeletor"]
 
 #4
 [[brackets.groups]]
 group_id = "A"
 team1 = "Autoism"
 score1 = 2
+scorers1 = ["Ol' Reliable", "Ol' Reliable"]
+assisters1 = ["Group C Kino"]
 team2 = "Moai"
 score2 = 1
+scorers2 = ["Imma Head In"]
+assisters2 = ["No Thoughts"]
 
 #5
 [[brackets.groups]]
 group_id = "A"
 team1 = "FC Fine Dining"
 score1 = 1
+scorers1 = ["Gordon Ramsay"]
+assisters1 = ["Flamin' Hot"]
 team2 = "Moai"
 score2 = 3
+scorers2 = ["No Thoughts", "No Thoughts", "No Thoughts"]
+assisters2 = ["Imma Head In", "Imma Head In", "Head Empty"]
 
 #6
 [[brackets.groups]]
 group_id = "A"
 team1 = "Autoism"
 score1 = 2
+scorers1 = ["It's The Future Bro, Accept It", "Group C Kino"]
+assisters1 = ["Ol' Reliable", "Ol' Reliable"]
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Skeletor"]
+assisters2 = ["Disabled Skeleton"]
 
 ####################### GROUP B #######################
 
@@ -72,48 +96,72 @@ score2 = 1
 group_id = "B"
 team1 = "Disney"
 score1 = 2
+scorers1 = ["Woody", "Kronk"]
+assisters1 = ["Kronk", "Mulan"]
 team2 = "Fink Ployd"
 score2 = 4
+scorers2 = ["All in all, it's just another brick in the wall", "Own Goal (Disney)", "Oh, by the way, which one's Pink?", "Oh, by the way, which one's Pink?"]
+assisters2 = ["The flames are all long gone"]
 
 #2
 [[brackets.groups]]
 group_id = "B"
 team1 = "The Dump"
 score1 = 2
+scorers1 = ["HEY!!", "Brb Going For A Schwim"]
+assisters1 = ["SQWAAA", "SQWAAA"]
 team2 = "Gambit"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #3
 [[brackets.groups]]
 group_id = "B"
 team1 = "Disney"
 score1 = 1
+scorers1 = ["Woody"]
+assisters1 = ["Aladdin"]
 team2 = "The Dump"
 score2 = 2
+scorers2 = ["Brb Going For A Schwim", "HEY!!"]
+assisters2 = ["Cactuar", ":)"]
 
 #4
 [[brackets.groups]]
 group_id = "B"
 team1 = "Fink Ployd"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Gambit"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #5
 [[brackets.groups]]
 group_id = "B"
 team1 = "Disney"
 score1 = 1
+scorers1 = ["Zurg"]
+assisters1 = ["Woody"]
 team2 = "Gambit"
 score2 = 2
+scorers2 = ["A Blunder On Elm Street", "A Blunder On Elm Street"]
+assisters2 = ["A Gentleman's Game", "Knife F5"]
 
 #6
 [[brackets.groups]]
 group_id = "B"
 team1 = "Fink Ployd"
 score1 = 1
+scorers1 = ["The Dark Side of the Moon"]
+assisters1 = ["Roll the sound effects!"]
 team2 = "The Dump"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 ####################### GROUP C #######################
 
@@ -122,48 +170,72 @@ score2 = 0
 group_id = "C"
 team1 = "Big Funky"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "The Chairs"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #2
 [[brackets.groups]]
 group_id = "C"
 team1 = "Nintendont"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Sonic"]
 
 #3
 [[brackets.groups]]
 group_id = "C"
 team1 = "Big Funky"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Nintendont"
 score2 = 3
+scorers2 = ["Mario", "Ganondorf", "Ganondorf"]
+assisters2 = ["Link", "Link", "Fox"]
 
 #4
 [[brackets.groups]]
 group_id = "C"
 team1 = "The Chairs"
 score1 = 1
+scorers1 = ['Overpriced "Gaming" Chair']
+assisters1 = ["Flexible Chair"]
 team2 = "Vidya"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #5
 [[brackets.groups]]
 group_id = "C"
 team1 = "Big Funky"
 score1 = 2
+scorers1 = ["Gondola", "Big Money Big Women Big Success"]
+assisters1 = ["Gondola"]
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Tinfist"]
 
 #6
 [[brackets.groups]]
 group_id = "C"
 team1 = "The Chairs"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Nintendont"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 ####################### GROUP D #######################
 
@@ -172,48 +244,72 @@ score2 = 0
 group_id = "D"
 team1 = "Alpha Space Bros"
 score1 = 1
+scorers1 = ["aeiou"]
+assisters1 = ["John Madden"]
 team2 = "Cursed"
 score2 = 3
+scorers2 = ["Cthulhu", "Content Bro", "Thomas the Pain Engine"]
+assisters2 = ["Thomas the Pain Engine", "Content Bro"]
 
 #2
 [[brackets.groups]]
 group_id = "D"
 team1 = "Cartoons FC"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "HmX Gaming"
 score2 = 1
+scorers2 = ["You Schmuck!"]
+assisters2 = ["Baron Von Cupcake"]
 
 #3
 [[brackets.groups]]
 group_id = "D"
 team1 = "Alpha Space Bros"
 score1 = 1
+scorers1 = ["aeiou"]
+assisters1 = []
 team2 = "Cartoons FC"
 score2 = 1
+scorers2 = ["Shrek"]
+assisters2 = ["Bender"]
 
 #4
 [[brackets.groups]]
 group_id = "D"
 team1 = "Cursed"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "HmX Gaming"
 score2 = 1
+scorers2 = ["Izotope"]
+assisters2 = ["Bert54"]
 
 #5
 [[brackets.groups]]
 group_id = "D"
 team1 = "Alpha Space Bros"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "HmX Gaming"
 score2 = 1
+scorers2 = ["You Schmuck!"]
+assisters2 = ["Baron Von Cupcake"]
 
 #6
 [[brackets.groups]]
 group_id = "D"
 team1 = "Cursed"
 score1 = 1
+scorers1 = ["Louie the Lightning Bug"]
+assisters1 = ["Scare Bear"]
 team2 = "Cartoons FC"
 score2 = 1
+scorers2 = ["Bender"]
+assisters2 = ["Aku"]
 
 ###################### WINNERS ######################
 
@@ -221,47 +317,75 @@ score2 = 1
 [[brackets.winners]]
 team1 = "Autoism"
 score1 = 2
+scorers1 = ["Group C Kino", "Ol' Reliable"]
+assisters1 = ["Renault Twingo", "It's The Future Bro, Accept It"]
 team2 = "The Dump"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #2
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 2
+scorers1 = ["Link", "Ganondorf"]
+assisters1 = ["Ganondorf", "Fox"]
 team2 = "HmX Gaming"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #3
 [[brackets.winners]]
 team1 = "The Chairs"
 score1 = 1
+scorers1 = ["Flexible Chair"]
+assisters1 = ["Plastic Garden Chair"]
 team2 = "Cursed"
 score2 = 3
+scorers2 = ["Louie the Lightning Bug", "Thomas the Pain Engine", "Louie the Lightning Bug"]
+assisters2 = ["Thing", "Thing"]
 
 #4
 [[brackets.winners]]
 team1 = "Bone Zone"
 score1 = 2
+scorers1 = ["Skeletor", "Mr. Bones"]
+assisters1 = ["Broken Bones", "Skeletor"]
 team2 = "Fink Ployd"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #5
 [[brackets.winners]]
 team1 = "Autoism"
-score1 = 0
+score1 = 1
+scorers1 = ["Ol' Reliable"]
+assisters1 = ["German Engineering"]
 team2 = "Nintendont"
 score2 = 3
+scorers2 = ["Mario", "Mario", "Mario"]
+assisters2 = ["Ganondorf", "Ganondorf", "Link"]
 
 #6
 [[brackets.winners]]
 team1 = "Cursed"
 score1 = 2
+scorers1 = ["Louie the Lightning Bug", "Louie the Lightning Bug"]
+assisters1 = []
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Mr. Bones"]
+assisters2 = ["Cool Bones"]
 
 #7 – FINAL
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 1
+scorers1 = ["Fox"]
+assisters1 = ["Dust Collector"]
 team2 = "Cursed"
 score2 = 2
+scorers2 = ["Content Bro", "Thomas the Pain Engine"]
+assisters2 = ["Thing", "Content Bro"]
