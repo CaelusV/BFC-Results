@@ -11,64 +11,100 @@ point_system = "TennisV1"
 [[brackets.winners]]
 team1 = "Moai"
 score1 = 2
+scorers1 = ["Head Empty", "Imma Head In"]
+assisters1 = ["No Thoughts"]
 team2 = "Gambit"
 score2 = 1
+scorers2 = ["A Gentleman's Game"]
+assisters2 = ["Pawn With A Gun"]
 
 #2
 [[brackets.winners]]
 team1 = "Big Funky"
 score1 = 3
+scorers1 = ["Spurdo", "Gondola", "Spurdo"]
+assisters1 = ["Big Money Big Women Big Success", "Poul", "Gondola"]
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["Sonic"]
+assisters2 = ["Big Rigs"]
 
 #3
 [[brackets.winners]]
 team1 = "Bone Zone"
 score1 = 2
+scorers1 = ["Mr. Bones", "Skeletor"]
+assisters1 = ["The Skull", "Broken Bones"]
 team2 = "Moai"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #4
 [[brackets.winners]]
 team1 = "Cartoons FC"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Alpha Space Bros"
 score2 = 2
+scorers2 = ["aeiou", "John Madden"]
+assisters2 = ["John Madden", "aeiou"]
 
 #5
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 2
+scorers1 = ["Mario", "Ganondorf"]
+assisters1 = ["Link"]
 team2 = "Disney"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #6
 [[brackets.winners]]
 team1 = "Big Funky"
 score1 = 2
+scorers1 = ["Gondola", "Spurdo"]
+assisters1 = ["Spurdo", "Big Money Big Women Big Success"]
 team2 = "The Dump"
 score2 = 1
+scorers2 = ["HEY!!"]
+assisters2 = ["SQWAAA"]
 
 #9
 [[brackets.winners]]
 team1 = "Bone Zone"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Alpha Space Bros"
 score2 = 1
+scorers2 = ["John Madden"]
+assisters2 = ["Hedley_Lamar"]
 
 #10
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 2
+scorers1 = ["Fox", "Mario"]
+assisters1 = ["Peach"]
 team2 = "Big Funky"
 score2 = 1
+scorers2 = ["Gondola"]
+assisters2 = ["Big Money Big Women Big Success"]
 
 #15
 [[brackets.winners]]
 team1 = "Alpha Space Bros"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Nintendont"
 score2 = 1
+scorers2 = ["Link"]
+assisters2 = ["Falco"]
 
 
 #################### GRAND FINAL ####################
@@ -77,8 +113,12 @@ score2 = 1
 [[grand_final]]
 team1 = "Nintendont"
 score1 = 5
+scorers1 = ["Mario", "Mario", "Mario", "Mario", "Mario"]
+assisters1 = ["Fox", "Link", "Fox"]
 team2 = "Alpha Space Bros"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 ###################### LOSERS #######################
 
@@ -86,54 +126,86 @@ score2 = 0
 [[brackets.losers]]
 team1 = "The Dump"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Gambit"
 score2 = 3
+scorers2 = ["A Gentleman's Game", "Pawn With A Gun", "Your Flag Fell, Loser"]
+assisters2 = ["A Blunder On Elm Street", "Anti-Queen", "A Gentleman's Game"]
 
 #8
 [[brackets.losers]]
 team1 = "Moai"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Vidya"
 score2 = 1
+scorers2 = ["THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Crash Bandicoot"]
 
 #11
 [[brackets.losers]]
 team1 = "Disney"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Gambit"
 score2 = 3
+scorers2 = ["Anti-Queen", "A Gentleman's Game", "Anti-Queen"]
+assisters2 = ["A Blunder On Elm Street"]
 
 #12
 [[brackets.losers]]
 team1 = "Cartoons FC"
 score1 = 2
+scorers1 = ["Spongebob", "Aku"]
+assisters1 = ["Shrek", "Skinner"]
 team2 = "Vidya"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #13
 [[brackets.losers]]
 team1 = "Bone Zone"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Gambit"
 score2 = 3
+scorers2 = ["A Blunder On Elm Street", "Stockfish", "A Blunder On Elm Street"]
+assisters2 = ["Pawn With A Gun", "A Gentleman's Game"]
 
 #14
 [[brackets.losers]]
 team1 = "Big Funky"
 score1 = 2
+scorers1 = ["Gondola", "Gondola"]
+assisters1 = ["Spurdo"]
 team2 = "Cartoons FC"
 score2 = 3
+scorers2 = ["Aku", "Aku", "Bender"]
+assisters2 = ["Azula", "Spongebob", "Zuko"]
 
 #16
 [[brackets.losers]]
 team1 = "Gambit"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Cartoons FC"
 score2 = 1
+scorers2 = ["Aku"]
+assisters2 = ["Spongebob"]
 
 #17
 [[brackets.losers]]
 team1 = "Alpha Space Bros"
 score1 = 3
+scorers1 = ["aeiou", "John Madden", "Hedley_Lamar"]
+assisters1 = ["UUUUUUUUUUUUUUUUUU", "UUUUUUUUUUUUUUUUUU", "UUUUUUUUUUUUUUUUUU"]
 team2 = "Cartoons FC"
 score2 = 1
+scorers2 = ["Bender"]
+assisters2 = []

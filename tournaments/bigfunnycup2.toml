@@ -11,52 +11,80 @@ point_system = "TennisV1"
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 3
+scorers1 = ["Captain Falcon", "Link", "Mario"]
+assisters1 = ["Fox", "Link"]
 team2 = "Moai"
 score2 = 2
+scorers2 = ["Head Empty", "Head Empty"]
+assisters2 = ["The Worst Emoji Ever Created", "Alright Imma Head Out"]
 
 #2
 [[brackets.winners]]
 team1 = "The Dump"
 score1 = 1
+scorers1 = ["The Pooper"]
+assisters1 = ["THEN THERE'S NO TIME TO WASTE"]
 team2 = "Disney"
 score2 = 2
+scorers2 = ["Mickey Mouse", "Woody"]
+assisters2 = ["Kronk", "Zurg"]
 
 #3
 [[brackets.winners]]
 team1 = "Cartoons FC"
 score1 = 4
+scorers1 = ["Bender", "Bender", "CatDog", "Bender"]
+assisters1 = ["Aku", "Aku"]
 team2 = "Big Funky"
 score2 = 1
+scorers2 = ["Spurdo"]
+assisters2 = ["Gondola"]
 
 #4
 [[brackets.winners]]
 team1 = "Bone Zone"
 score1 = 1
+scorers1 = ["Skeletor"]
+assisters1 = ["Mr. Bones"]
 team2 = "Alpha Space Bros"
 score2 = 0
+scorers2 = []
+assisters2 = []
 
 #7
 [[brackets.winners]]
 team1 = "Nintendont"
 score1 = 1
+scorers1 = ["Ganondorf"]
+assisters1 = ["Fox"]
 pen1 = 2
 team2 = "Disney"
 score2 = 1
+scorers2 = ["Woody"]
+assisters2 = []
 pen2 = 3
 
 #8
 [[brackets.winners]]
 team1 = "Cartoons FC"
 score1 = 1
+scorers1 = ["Bender"]
+assisters1 = ["Aku"]
 team2 = "Bone Zone"
 score2 = 2
+scorers2 = ["Skeletor", "Disabled Skeleton"]
+assisters2 = ["Disabled Skeleton", "Skeletor"]
 
 #11
 [[brackets.winners]]
 team1 = "Disney"
 score1 = 4
+scorers1 = ["Kronk", "Woody", "Woody", "Woody"]
+assisters1 = ["Mickey Mouse", "Zurg", "Mickey Mouse", "Mickey Mouse"]
 team2 = "Bone Zone"
 score2 = 2
+scorers2 = ["Skeletor", "Disabled Skeleton"]
+assisters2 = ["Mr. Bones"]
 
 #################### GRAND FINAL ####################
 
@@ -64,15 +92,23 @@ score2 = 2
 [[grand_final]]
 team1 = "Disney"
 score1 = 1
+scorers1 = ["Zurg"]
+assisters1 = ["Snow White"]
 team2 = "Bone Zone"
 score2 = 2
+scorers2 = ["Mr. Bones", "Skeletor"]
+assisters2 = ["Skeletor"]
 
 #15
 [[grand_final]]
 team1 = "Disney"
 score1 = 0
+scorers1 = []
+assisters1 = []
 team2 = "Bone Zone"
 score2 = 1
+scorers2 = ["Skeletor"]
+assisters2 = ["Cool Bones"]
 
 ###################### LOSERS #######################
 
@@ -80,42 +116,66 @@ score2 = 1
 [[brackets.losers]]
 team1 = "Moai"
 score1 = 2
+scorers1 = ["Head Empty", "Head Empty"]
+assisters1 = ["OOOOOEEEEEE", "OOOOOEEEEEE"]
 team2 = "The Dump"
 score2 = 1
+scorers2 = ["THEN THERE'S NO TIME TO WASTE"]
+assisters2 = ["Kermit"]
 
 #6
 [[brackets.losers]]
 team1 = "Big Funky"
 score1 = 2
+scorers1 = ["Gondola", "Meme Man"]
+assisters1 = ["Hamachi", "Gondola"]
 pen1 = 5
 team2 = "Alpha Space Bros"
 score2 = 2
+scorers2 = ["AAAAAAAAAAAAAAAAA", "aeiou"]
+assisters2 = ["Ear Rape"]
 pen2 = 6
 
 #9
 [[brackets.losers]]
 team1 = "Cartoons FC"
 score1 = 2
+scorers1 = ["Shrek", "Bender"]
+assisters1 = ["Bender", "Shrek"]
 team2 = "Moai"
 score2 = 1
+scorers2 = ["Alright Imma Head Out"]
+assisters2 = ["No Thoughts"]
 
 #10
 [[brackets.losers]]
 team1 = "Nintendont"
 score1 = 1
+scorers1 = ["Ganondorf"]
+assisters1 = ["Link"]
 team2 = "Alpha Space Bros"
 score2 = 3
+scorers2 = ["aeiou", "AAAAAAAAAAAAAAAAA", "aeiou"]
+assisters2 = ["John Madden"]
 
 #12
 [[brackets.losers]]
 team1 = "Cartoons FC"
 score1 = 1
+scorers1 = ["Shrek"]
+assisters1 = ["Bender"]
 team2 = "Alpha Space Bros"
 score2 = 3
+scorers2 = ["UUUUUUUUUUUUUUUUUU", "aeiou", "John Madden"]
+assisters2 = ["aeiou", "UUUUUUUUUUUUUUUUUU", "aeiou"]
 
 #13
 [[brackets.losers]]
 team1 = "Bone Zone"
 score1 = 2
+scorers1 = ["Broken Bones", "Broken Bones"]
+assisters1 = ["Mister Skeleton"]
 team2 = "Alpha Space Bros"
 score2 = 0
+scorers2 = []
+assisters2 = []
